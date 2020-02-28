@@ -11,7 +11,7 @@ public class Addition {
 		sum=i+j;
 		
 		
-		System.out.println("the value is: " +sum  +"  success");
+		System.out.println("the value is: " +sum);
 		
 		
 	}
